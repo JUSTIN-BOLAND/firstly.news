@@ -1,0 +1,12 @@
+{
+  "name": "Apurv",
+  "slug": "apurv",
+  "title": "Apurv Bhavsar",
+  "description": "Developer",
+  "thumbnail": "dsc_0025.jpg",
+  "skills": [
+    "laravel",
+    "vue",
+    "react"
+  ]
+}
